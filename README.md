@@ -6,6 +6,7 @@
 - :seedling: I’m currently learning **MERN stack**
 <br>
 - :mailbox: How to reach me **anurag.premaverma@gmail.com**
+- :Linkedin: How to reach me **linkedin.com/in/anurag-verma-935bbb138**
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
