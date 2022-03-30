@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - :seedling: I’m currently learning **MERN stack**
 <br>
-- :mailbox: How to reach me **anurag.premaverma@gmail.com**
+- :mailbox: How to reach me **anurag.premaverma@gmail.com** <br>
 - :Linkedin: How to reach me **linkedin.com/in/anurag-verma-935bbb138**
 <p align="left">
 </p>
