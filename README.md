@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 
-- 🌱 I’m currently learning **HTML , CSS , JavaScript, React.Js,Redux, Mongodb, Express.js, Data Structure and algorithm**
+- 🌱 I’m currently learning **HTML , CSS , JavaScript, React.Js,Redux,Node.js, Express.js, Mongodb, TypeScript, Data Structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [https://anuragverma-portfolio.netlify.app/](https://anuragverma-portfolio.netlify.app/)
 
